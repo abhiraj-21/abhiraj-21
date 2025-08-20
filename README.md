@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abhirajsinghchouhan4@gmail.com**
 
-- ⚡ Fun fact **When someone asks me about my social life, all I can think about is my laptop.**
+- ⚡ Fun fact **Who called them bugs and not extra features?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
