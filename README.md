@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Minilink](https://github.com/abhiraj-21/Minilink)
 
-- 🌱 I’m currently learning **Spring Security, Spring AI, ReactJS, Docker, and AWS**
+- 🌱 I’m currently learning **Spring Security, Spring AI, ReactJS, and Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhiraj-21](https://github.com/abhiraj-21)
 
