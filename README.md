@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhiraj Singh</h1>
 <h3 align="center">Third-year undergrad crafting fullstack apps with Java & curiosity | Always exploring the next big thing in tech</h3>
 
-- 🔭 I’m currently working on [HarmonyHub](https://github.com/abhiraj-21/HarmonyHub)
+- 🔭 I’m currently working on [PopcornPing](https://github.com/abhiraj-21/PopcornPing)
 
 - 🌱 I’m currently learning **Spring Security, Spring AI, ReactJS, and Docker**
 
